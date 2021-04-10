@@ -1,14 +1,17 @@
 # Menu Toggle
 
-Projeto desenvolvido usando ecossistema react.
-
-## Scripts
-
 ### `npm install`
 ### `npm start`
 
 ## Tecnologias envolvidas
 
-React
-JavaScript
-CSS
+<p>React</p>
+<p>JavaScript</p>
+<p>CSS</p>
+
+<h1 align="center">
+    Preview
+   <br/>
+   
+   <img src="https://github.com/rodrigosnantes/simple-toogle/blob/main/toggle.gif" width="400" />
+</h1>
