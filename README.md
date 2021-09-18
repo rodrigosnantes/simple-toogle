@@ -1,14 +1,5 @@
 # Menu Toggle
 
-### `npm install`
-### `npm start`
-
-## Tecnologias envolvidas
-
-<p>React</p>
-<p>JavaScript</p>
-<p>CSS</p>
-
 <h1 align="center">
     Preview
    <br/>
